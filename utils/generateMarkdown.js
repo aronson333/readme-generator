@@ -85,7 +85,7 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 ## Questions
-- Github Profile: [GitHub Profile](https://github.com/${data.userName}
+- Github Profile: [GitHub Profile](https://github.com/${data.userName})
 - Contact Me via email(${data.emailAddress}) with any questions.
 `;
 }
